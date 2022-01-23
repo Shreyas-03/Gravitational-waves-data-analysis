@@ -1,0 +1,3 @@
+# Gravitational-waves-data-analysis
+This project showcases how to analyze the Gravitational wave data stored at LIGO/VIRGO observatories, using Python programming language. The notebooks which are provided can be downloaded but Google colab is highly recommended since the data to be analysed and modules are much larger to be downloaded. In the above provided notebooks, unfortunately graph plots aren't shown in the preview, but if one opens these notebooks in google colab then the graphs can be seen.\
+[G_waves_analysis](https://colab.research.google.com/drive/1AaOZdfds_LbIIWf_kse2njnPsWfbiL6U?usp=sharing)
